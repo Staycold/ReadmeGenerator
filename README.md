@@ -28,3 +28,8 @@ THEN I am taken to the corresponding section of the README</li>
 <p> there's no deployed link but please enjoy the video I submitted, and if you can believe it, I did it in one take. Shocking, I know. </p>
 
 Thank you for checking out my work :)
+
+
+<h1> IMPORTANT NOTE!!!!!</h1>
+<h4> I somehow broke my original repository under this name, so I enlisted the help of one of my instructors to try to fix it.
+In the end he suggested I just make a new one and copy everything over, so that's what I did.</h4>
