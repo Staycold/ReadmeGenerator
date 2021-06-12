@@ -54,7 +54,7 @@ function renderLicenseBadge(license) {
       
       return ` ${renderLicenseBadge(response.license)}
   
-      ##${response.tile}
+      ##${response.title}
   
   
       ## Table of contents
